@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\P4SIS457\Intermediate\Build\Win64\UE4Editor\Development\P4SIS457\Definitions.P4SIS457.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\P4SIS457\Source\P4SIS457/EstrategiaMoverCanoa.h
+C:\Users\USUARIO\Desktop\P4SIS457\Source\P4SIS457\EstrategiaCanoa.h
+C:\Users\USUARIO\Desktop\P4SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P4SIS457\EstrategiaCanoa.generated.h
+C:\Users\USUARIO\Desktop\P4SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P4SIS457\EstrategiaMoverCanoa.generated.h

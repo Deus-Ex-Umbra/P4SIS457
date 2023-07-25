@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Desktop\P4SIS457\Intermediate\Build\Win64\UE4Editor\Development\P4SIS457\Definitions.P4SIS457.h
+C:\Users\USUARIO\Desktop\P4SIS457\Source\P4SIS457\Bala.h
+C:\Users\USUARIO\Desktop\P4SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P4SIS457\Bala.generated.h

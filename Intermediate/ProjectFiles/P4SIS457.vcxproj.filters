@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\P4SIS457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{03AE162E-CA15-4C89-A5C7-BD7DDD975CCD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P4SIS457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\P4SIS457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D1014FA8-CC5F-4828-AA5A-83D58DB40702}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\P4SIS457">
+      <UniqueIdentifier>{39F707C0-3BA9-458A-BE31-401550F2095B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P4SIS457\Bala.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\Bala.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\Canoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\Canoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\EstrategiaAscenderCanoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\EstrategiaAscenderCanoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\EstrategiaCanoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\EstrategiaCanoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\EstrategiaDispararCanoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\EstrategiaDispararCanoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\EstrategiaMoverCanoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\EstrategiaMoverCanoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\EstrategiaRotarCanoa.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\EstrategiaRotarCanoa.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\P4SIS457\P4SIS457.Build.cs">
+      <Filter>Source\P4SIS457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\P4SIS457\P4SIS457.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\P4SIS457.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\P4SIS457\P4SIS457GameModeBase.cpp">
+      <Filter>Source\P4SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\P4SIS457\P4SIS457GameModeBase.h">
+      <Filter>Source\P4SIS457</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
